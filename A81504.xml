@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The disconsolate reformado; or The sad look'd Presbyterian Jack. Or a true relation of the suddaine change which hath happned in the City of London, since the 30th of July, till the 4th. of August. Between the renowned Sr. Thomas Fairfax's army, and Major Generall Massey's and Col. Poyn's reformadoes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81504</idno>
+            <idno type="STC">Wing D1563</idno>
+            <idno type="STC">Thomason E401_27</idno>
+            <idno type="STC">Thomason E404_4</idno>
+            <idno type="STC">ESTC R201795</idno>
+            <idno type="EEBO-CITATION">99862290</idno>
+            <idno type="PROQUEST">99862290</idno>
+            <idno type="VID">160453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160453)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[27] or 64:E404[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The disconsolate reformado; or The sad look'd Presbyterian Jack. Or a true relation of the suddaine change which hath happned in the City of London, since the 30th of July, till the 4th. of August. Between the renowned Sr. Thomas Fairfax's army, and Major Generall Massey's and Col. Poyn's reformadoes.</title>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With an engraving [on page 1] representing 'Independent Jamy' and 'Presbyterian Jack'"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "Aug: 11".</note>
+                  <note>E.401[27] has print show-through.</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term>Poyntz, Sydenham --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160453:1" rendition="simple:additions"/>
+            <p>The Diſconſolate REFORMADO; OR The ſad look'd Presbyterian JACK.</p>
+            <p>Or a true Relation of the ſuddaine CHANGE which hath happned in the CITY of <hi>LONDON,</hi> ſince the 30<hi rend="sup">th</hi> of <hi>July,</hi> till the 4<hi rend="sup">th</hi>. of <hi>August.</hi>
+            </p>
+            <p>Between the Renowned S<hi rend="sup">r</hi>. <hi>Thomas Fairefax's</hi> ARMY, and Major Generall <hi>MASSEY'S</hi> and Col. <hi>POYN'S</hi> REFORMADOES.</p>
+            <p>
+               <add>Aug: 21</add> 
+               <hi>London,</hi> printed 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160453:2"/>
+            <pb n="1" facs="tcp:160453:2"/>
+            <figure>
+               <figure>
+                  <head>Independent JAMY.</head>
+               </figure>
+               <figure>
+                  <head>Presbyterian JACK.</head>
+               </figure>
+            </figure>
+            <p>
+               <q>
+                  <seg rend="decorInit">O</seg>H Brother <hi>Jamy</hi> Independent, whether are you walking ſo Melancholy? Why <hi>Jack</hi> Preſ<g ref="char:EOLhyphen"/>byter, what's the matter with you, you are walking in great haſt, what a ſmoake you are in, from whence come you in ſuch a ſweat! Sure there's very hot buſineſſes abroad; <hi>Iamy,</hi> Ile tell you though we differ in opinions, yet I love you, therefore ſhift for your ſelfe, (why whats the matter) I will tell you; I am now going to Saint <hi>Iamſes</hi>'s Fields, (came you not from thence,) you are all undone: For a new Army is a raiſing, and I will Liſt my ſelfe, I have a Plume of Feathers already, and a very ſtrong Buffe-Coat well lined with Queries, I ſhall make a gallant Reformado; We ſhall have mony, and good Horſes, and I meane to have a touch or two for the good of my Brethren the Presbyterians, (I pray bee plaine Brother) Ha, <hi>Jamy</hi> I am ſorry for thee, for in St <hi>Iamſes,</hi> the new <hi>Ar<g ref="char:EOLhyphen"/>tillery-Ground,</hi> and diverſe other places, they are liſting them<g ref="char:EOLhyphen"/>ſelves under Major Generall <hi>Maſsey,</hi> Sir <hi>William Waller,</hi> Cor.
+<pb n="2" facs="tcp:160453:3"/>
+                  <hi>Poynts,</hi> and diverſe others that are brave Souldiers, are all Li<g ref="char:EOLhyphen"/>ſting themſelves by heapes, I heare ſay the Army meanes to doe what they pleaſe, but our Commanders doe intend to coole their courage, or elſe they will run for it: Heard you not what a ſhouting there was, when they met with a poore fellow of your own ſtamp, (an Independent) how they cry<g ref="char:EOLhyphen"/>ed out, a tub Preacher, a tub Preacher, downe with him; but the poore fellow at laſt was horſt away) having receaved many a ſore baſtinado (from a gallant Reformado, but bro<g ref="char:EOLhyphen"/>ther did hee get away without having any of his bones bro<g ref="char:EOLhyphen"/>ken? yea brother, there were ſome that tooke pitty of him; and therefore now the tyde is turned, have a ſpeciall care of your ſelfe, and lye cloſe while I goe and enquire further what is done, and ſtirre not out of your lodging (but pray in your tub) till I call for you, and get you a Paſſe, to ſend you to your deſired Haven <hi>Amſterdam,</hi> where you may profeſſe what you pleaſe, and ſo for this time farewell Bro<g ref="char:EOLhyphen"/>ther <hi>Jamy.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Iack,</hi> and <hi>Iamy</hi> being parted, <hi>Iack</hi> jolly makes his repaire againe into Saint <hi>Iamſes</hi>'s Fields on <hi>Saturday</hi> the laſt of <hi>Iuly,</hi> where hee findes many of his old Comrades ſtill about the old buſineſſe Lyſting themſelves, but amongſt the reſt of the buſineſſe, ſome would not Lyſt themſelves till the Ci<g ref="char:EOLhyphen"/>tie had ſet out a Declaration, (which that evening was done) upon the Sunday following they met againe in the ſame place, ſtill lyſting, ſome under one Captaine, and ſome un<g ref="char:EOLhyphen"/>der another, ſhouting, and crying, ſome for <hi>Maſſey,</hi> ſome for <hi>Waller,</hi> and ſome for <hi>Poyns,</hi> and ſo continued all that day, and at night taking and ſeizing on all Horſes, no Horſe-Courſers ſtables excepted, where they had any intelligence.</p>
+            <p>Munday there meeting was in the New Artillery ground, drawing into Companies, and expecting to receave their monies, Horſes and Armes, but were put off till the next day.
+<pb n="3" facs="tcp:160453:3"/>The Common Counſell then ſitting very cloſe, and the Committee of the Militia; Certaine of <hi>Iamys</hi> friends com<g ref="char:EOLhyphen"/>ming with a Petition was much enterrupted, in ſo much that in the end, they fell foule one upon th' other; And <hi>Poyns</hi> like a Gallant Reformado, or a Commander in chiefe, did there acts of Chivaldry, killing one poore man, and hurting diverſe others. (<hi>Tom.</hi> the Apothecaryes man had better been making of a Gliſter then looking on) <hi>Maſsey</hi> hearing of the cumbuſtion, came into the field, and crying out Col. <hi>Poyns</hi> was ingaged, and with that they came ſo thicke in Compa<g ref="char:EOLhyphen"/>nies to Guield-Hall-Gate, ſhouting, hollowing; and crying for King, Parliament and City; (poore <hi>Iemy</hi> lay then in great feare expecting his Brother <hi>Iacks</hi> Paſſe, but none came) In the meane time, His Excellency Sir <hi>Thomas Fairfax</hi> had notice of it, and fearing that the Kingdome ſhould bee im<g ref="char:EOLhyphen"/>broyled in a Warre, (the worthy Generall) ſent his Letters to the Citie, with his Declarations to the Kingdome in ge<g ref="char:EOLhyphen"/>nerall, (all which you may reade at large) being unwilling that the City by the perſwaſions of ſome men ſhould be in danger or damnified.</p>
+            <p>Tueſday, the Common Counſell ſate cloſe with other Counſells, and Meſſages paſt too and againe from them to Sir <hi>Thomas</hi> and his Counſell of Warre; then leaving off there heate of Lyſting, gave them very good words, and promiſing faire, doubling all our guards with Trained bands and Auxilliaries.</p>
+            <p>Wedneſday morning about one of the Clock, that wor<g ref="char:EOLhyphen"/>thy Patron of the City Sir <hi>I.W.</hi> Knight, went to the Coun<g ref="char:EOLhyphen"/>ſell of Warre to Treaty, on behalfe of the City, and with<g ref="char:EOLhyphen"/>in an houre after he was gone an Alarum was given at Hide-Parke corner, where the Officers and Souldiers were ready and diligent; But it hapned that about two houres after with hollowing and ſhouting, they made themſelves Maſters
+<pb n="4" facs="tcp:160453:4"/>of <hi>Southwarke: Iamy</hi> hearing of that, being over-joyed ran forth to ſee his friends with much joy. and comming backe found his brother <hi>Iack</hi> Presbyter in a diſcontented manner, walking too and againe, whom clapping on the ſhoulders, crying, I arreſt you; which made Presbyter <hi>Iack</hi> ſtart, (fearing it had beene Trypes the Sarjeant) but ſeeing it otherwiſe tooke it patiently, ſhaking of his head, he asked what newes with you brother <hi>Jamy?</hi> Oh brother <hi>Jack,</hi> I have been with part of the Army, it is a gallant Army, but doth not love your Reformadoes; for they ſay you de<g ref="char:EOLhyphen"/>ſerted the Army and endeavoured to make a new Warre; therefore I would have you take the ſame councell you gave me, looke to your ſelfe, for they are men not worſe then their words (they are treating hard) you had beſt ſhift for your ſelfe, begone, either for <hi>France,</hi> or <hi>Scotland,</hi> and well you ſcape ſo. Yet brother <hi>Jack</hi> if you will ſtay till <hi>Saterday,</hi> you will bleſſe your ſelfe at the ſight of a gallant Army; they have much Artillary, but will do no hurt unleſſe you doe oppoſe them, (and that's in vaine <hi>Iack</hi>) for Friday Sir <hi>Thomas</hi> concludes of all things at <hi>Wistminſter,</hi> where he will guard the Houſe with his owne men; therefore <hi>Iack</hi> Presbytary tarry till Saterday, which is but a very ſhort time, (all your chiefe Commanders are gone) and I will be your Protector. So leaving <hi>Iamy,</hi> and <hi>Iack, Iamy</hi> rejoycing, and <hi>Iack</hi> admiring at the well governed Army of that Renown-Generall marching through <hi>London</hi> to Black-Heath, whom God I beſeech governe and protect, that by the two Ho<g ref="char:EOLhyphen"/>nourable Houſes mutable conſent, and their ſtrength, wee may have a true ſetlement of the Church, and a firme peace in the Kingdome.</p>
+            <div type="part">
+               <pb n="5" facs="tcp:160453:4"/>
+               <head>To the diſconſolate Reformado, OR Sad lookt PRESBYTER.</head>
+               <p>
+                  <seg rend="decorInit">I</seg> Conceive that teares are fitter for this Theam then words; for I heare ſince this unexpected change of your ſide, you have both ſcratcht where it doth not itch, and the rather conſidering how you took upon you, till it pleaſed God to turne the tyde: It is a true ſaying, the reaſon that many men want their deſires, is be<g ref="char:EOLhyphen"/>cauſe their deſires want reaſon, and honesty: You did mainly be<g ref="char:EOLhyphen"/>ſtir your ſelves on a ſuddaine to flouriſh, <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h like the <hi>Pa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tridge,</hi> that carryeth faire feathers, but <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fleſh<g ref="char:punc">▪</g> So<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e h<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> not ſtuck to ſay, come we will take their Horſes, and their <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pay, and then let it goe on which ſide it will. Here Reformado I must tell thee, (if thou art guilty of this) thou dost break<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy Covenant with God<g ref="char:punc">▪</g> and man; and muſt now ſay to thee <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Vlyſſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> ſaid to <hi>Aliax;</hi> Riches, Honours and Policy are pretious <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>els, but for<g ref="char:EOLhyphen"/>tune ruleth the Roast, oftentimes taketh all from them that had much, and giveth to them that had little: I have read of a ſtory of <hi>Hycurges</hi> two Dogges both of a Damme, the one ranne at a Hare, the other at a Poridge-Pot, my meaning is not to compare the two dogges to Christians, but accept of the Morall; I conceive the ſtout hearted Souldier will ſtand to that which he hath beene ever brought up in, when another of the ſame Traine, is good for nothing but to runne after the ſpoyle and ruinning of Cities and Townes. From which Maſſacry, (though it have many Enemies)
+<pb n="6" facs="tcp:160453:5"/>I trust God will ever defend it; Well <hi>Reformado,</hi> I am ſorry thou haſt no better imployment, but to live by the ſword (and I as am heartily glad thou art diſappointed of ſuch an imployment) thou mayſt even now ſay by thy fortunes, as the <hi>Lord Keeper Finch</hi> ſaid by his (BOTSON'T) who thought of a Parlia<g ref="char:EOLhyphen"/>ment, ſo who thought of ſo peaceable a change, which change hath for the preſent put thee into a ſad and lost condition; And now Reformado my last advice to thee ſhall bee, to eſchew evill and doe good; And that thou maist, have more minde on good Bookes, then of Bagges, more deſire of Godlineſſe then of Gold; greater deſire to dye well, then to live wanton<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, or idlely: <hi>So wiſhing thee no ill, I bid thee adew.</hi>
+               </p>
+               <closer>
+                  <salute>Farewell</salute> 
+                  <signed>Reformado.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Laſtly,</hi> My hearty Prayers to God for this whole Kingdome is, That the Lord would power out upon all ſorts of perſons in theſe Kingdomes a ſpirit of grace and ſupplication, that it may repent us of all our iniquities, and that wee may bee reconciled to the Lord; that ſo all the threatens of his wrath may be removed from amongſt us, and hee may bleſſe us with the ſweet fruits of truth and peace.</p>
+               </postscript>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
